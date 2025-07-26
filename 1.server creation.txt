@@ -1,0 +1,26 @@
+1.server creation
+2.how to login server
+3.Linux commands execution
+4.git installation and check version
+5.maven installation and check version
+6.Git commands
+git clone url
+cd filename
+git status
+git add *
+git commit -m "msg"
+git push origin main
+git branch
+git checkout -b branch name
+git checkout branch name
+git pull
+
+
+
+
+7.how to clone the repository from remote to local 
+8.how to modify the code
+9.how to push the code from local to remote repository
+10.how to access git repository
+11*****.branching concept
+12*****.merging concept
